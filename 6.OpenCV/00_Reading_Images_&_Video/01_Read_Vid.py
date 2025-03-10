@@ -8,7 +8,7 @@ import cv2 as cv
 # You can specify a different webcam index if multiple cameras are connected. 
 # Alternatively, you can provide a path to a video file to read from that file instead.
 
-# NOTE: Gives assertion error if it failes to read image
+# NOTE: Gives assertion error if it fails to read image
 # capture_vid = cv.VideoCapture(0)
 capture_vid = cv.VideoCapture("../../assets/Videos/dog.mp4")
 
