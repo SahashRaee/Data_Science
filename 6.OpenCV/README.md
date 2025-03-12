@@ -1,4 +1,4 @@
-# OpenC
+# OpenCV
 
 This repository provides a comprehensive guide to getting started with **OpenCV** in Python. I cover the fundamental concepts of OpenCV, including reading images and videos, performing image transformations, drawing shapes and text, and advanced topics like color spaces, masking, edge detection, and face detection/recognition.
 
