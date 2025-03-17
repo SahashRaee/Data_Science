@@ -2,7 +2,7 @@
 
 # Import libraries
 import cv2 as cv 
-import numpy as n
+import numpy as np
 
 # Load image
 img = cv.imread("../../assets/Photos/park.jpg")
