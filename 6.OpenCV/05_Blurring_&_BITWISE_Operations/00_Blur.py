@@ -12,7 +12,7 @@ This process helps to reduce noise and fine details in the image, resulting in a
 The size and shape of the kernel window determine the extent of smoothing or blurring applied to the image.
 Commonly used averaging filters include the box filter, also known as the mean filter, which uses a square kernel window.
 """
-average = cv.blur(img, (5, 5))              # Parameters: (image, kernel_size)
+average = cv.blur(img, (5, 5))              # Parameters: (image, kernel_size) Parameters: cv.blur(image, kernel_size)
 cv.imshow("Average Blur", average)
 
 # Gaussian Blur:
