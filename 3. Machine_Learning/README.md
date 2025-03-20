@@ -18,7 +18,7 @@ Machine learning can be broadly categorized into three main types:
 
 ### Supervised Learning:
 
-In supervised learning, the algorithm is trained on a labeled dataset, where each input is associated with a corresponding output or target label. The goal is to learn a mapping function that can accurately predict the output for new, unseen inputs.
+In supervised learning, the algorithm is trained on a labeled dataset, where each input is associated with a corresponding output or target label. The goal is to learn a mapping function that can accurately predict the output for  unseen inputs.
 
 ### Unsupervised Learning: 
 
