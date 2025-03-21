@@ -1,6 +1,6 @@
 """ Color Spaces: BGR, HSV and LAB """
 
-import cv2 as 
+import cv2 as cv
 
 # Load an image
 img = cv.imread("../../assets/Photos/park.jpg")
